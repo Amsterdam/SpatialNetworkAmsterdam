@@ -1,2 +1,2 @@
 # SpatialNetworkAmsterdam
-Perform spatial ntworkanalysis for pedestrians and cyclists
+Perform spatial networkanalysis for pedestrians and cyclists
